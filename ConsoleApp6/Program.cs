@@ -6,6 +6,7 @@ namespace ConsoleApp6
     {
         static void Main(string[] args)
         {
+            //asd
             Console.WriteLine("Hello World!");
             Console.WriteLine("Novo");
         }
